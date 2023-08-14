@@ -9,14 +9,15 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@vue/server-renderer": "^3.3.4",
     "bootstrap": "^4.6.2",
     "bootstrap-icons": "^1.10.5",
     "bootstrap-vue": "^2.22.0",
     "core-js": "^3.25.3",
     "font-awesome": "^4.7.0",
     "nuxt": "^2.15.8",
-    "vue": "^2.7.10",
-    "vue-server-renderer": "^2.7.10",
+    "vue": "2.7.14",
+    "vue-server-renderer": "^2.7.14",
     "vue-template-compiler": "^2.7.10"
   }
 }
